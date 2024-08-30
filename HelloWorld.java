@@ -1,11 +1,11 @@
 public class HelloWorld {
 
-  public static method() {
+  public static void method() {
     System.out.prinltn("Hello Java Method");
     System.out.println("Hello Changed Java Method");
   }
 
-  public static method2() {
+  public static void method2() {
     System.out.prinltn("Hello Java Method2");
   }
 
